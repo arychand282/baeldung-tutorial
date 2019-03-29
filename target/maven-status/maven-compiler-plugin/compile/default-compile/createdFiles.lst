@@ -1,9 +1,0 @@
-com\baeldung\web\exception\BookNotFoundException.class
-com\baeldung\web\SimpleController.class
-com\baeldung\Application.class
-com\baeldung\config\SecurityConfig.class
-com\baeldung\web\BookController.class
-com\baeldung\web\RestExceptionHandler.class
-com\baeldung\web\exception\BookIdMismatchException.class
-com\baeldung\persistence\model\Book.class
-com\baeldung\persistence\repo\BookRepository.class

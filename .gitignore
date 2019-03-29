@@ -3,6 +3,7 @@
 *.class
 .DS_Store
 target-eclipse/*
+target/*
 .idea/*
 *.iml
 *.log
